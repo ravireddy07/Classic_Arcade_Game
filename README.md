@@ -11,6 +11,7 @@ __*************__ [Wanna Play the Game.....!!!](https://ravireddy07.github.io/Go
 
 Use the arrow keys to move your player across the bug infested road and reach the safety of the Great Blue Bug Free sector. Score 1 point for each successful crossing. Watch-out!! The bugs fight back and score points against you every time they run you over. They also get angrier and meaner the more wins you score.
 
+![readme file](https://user-images.githubusercontent.com/26524467/47172631-a929aa00-d329-11e8-8292-3a66c095de01.png)
 
 
 ## Features
