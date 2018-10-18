@@ -7,11 +7,11 @@ This is a Udacity Front-end Nanodegree Third Project, A Part of my Google India 
 
 Click on this link to play the game:
 
-__*************__ [Cross the Road to reach the River](https://) __*************__
+__*************__ [Wanna Play the Game.....!!!](https://ravireddy07.github.io/GoogleIndiaScholarship_PCC4_ClassicArcadeGame/) __*************__
 
 Use the arrow keys to move your player across the bug infested road and reach the safety of the Great Blue Bug Free sector. Score 1 point for each successful crossing. Watch-out!! The bugs fight back and score points against you every time they run you over. They also get angrier and meaner the more wins you score.
 
-![arcade](https://user-images.githubusercontent.com/29199184/43368031-b15c17e8-9356-11e8-9a29-fc7f4e577eaf.gif)
+
 
 ## Features
 
