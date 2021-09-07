@@ -7,7 +7,7 @@ This is a Udacity Front-end Nanodegree Third Project, A Part of my Google India 
 
 Click on this link to play the game:
 
-__*************__ [Wanna Play the Game.....!!!](https://ravireddy07.github.io/GoogleIndiaScholarship_PCC4_ClassicArcadeGame/) __*************__
+__*************__ [Play the Game.....!!!](https://ravireddy07.github.io/Classic_Arcade_Game/) __*************__
 
 Use the arrow keys to move your player across the bug infested road and reach the safety of the Great Blue Bug Free sector. Score 1 point for each successful crossing. Watch-out!! The bugs fight back and score points against you every time they run you over. They also get angrier and meaner the more wins you score.
 
